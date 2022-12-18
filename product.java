@@ -8,9 +8,13 @@ public class HelloWorld {
         System.out.print("Enter a valid number: ");
         // nextInt() reads the next integer from the keyboard
         int number = reader.nextInt();
+Updated upstream
         // println() prints the following line to the output screen Updated upstream
         System.out.println("You entered: " + number);
         // This is a comment line for demonstrating git stash
-        System.out.println("You have enteredthe number: " + number); Stashed changes
+        System.out.println("You have enteredthe number: " + number); Stashed change
+        // println() prints the following line to the output screen
+        System.out.println("You have enteredthe number: " + number);
+Stashed changes
     }
 }
