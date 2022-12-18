@@ -10,5 +10,6 @@ public class HelloWorld {
         int number = reader.nextInt();
         // println() prints the following line to the output screen
         System.out.println("You entered: " + number);
+        // This is a comment line for demonstrating git stash
     }
 }
