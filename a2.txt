@@ -1,2 +1,3 @@
 Hello a2.txt
 Adding 2nd line using github
+Adding 3rd line to test pull is fetch + merge
